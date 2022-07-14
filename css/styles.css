@@ -14,6 +14,10 @@
   border-radius: 0 200px 0 0;
 }
 
+#About {
+  width: auto;
+}
+
 .contact {
   background-image: url("../images/contact-bg.png");
   background-repeat: no-repeat;
