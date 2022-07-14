@@ -13,3 +13,11 @@
 .about {
   border-radius: 0 200px 0 0;
 }
+
+.contact {
+  background-image: url("../images/contact-bg.png");
+  background-repeat: no-repeat;
+  background-size: 90%;
+  background-position: 50% 50%;
+  border-radius: 250px 0 0 0;
+}
