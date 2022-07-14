@@ -9,3 +9,7 @@
 .main-container {
   background-color: #e5e5e5;
 }
+
+.about {
+  border-radius: 0 200px 0 0;
+}
