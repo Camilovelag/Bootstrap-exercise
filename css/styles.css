@@ -11,11 +11,12 @@
 }
 
 .about {
-  border-radius: 0 200px 0 0;
+  border-radius: 0 100px 0 0;
 }
 
 #About {
   width: auto;
+  padding: 0 10%;
 }
 
 .contact {
